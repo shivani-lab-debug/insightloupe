@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.evalue.insightloupe.testsuite.UserStory01Test">
+        <methods>
+          <include name="userstory1_TC011"/>
+          <include name="before"/>
+          <include name="userstory1_TC002"/>
+          <include name="userstory1_TC004"/>
+          <include name="userstory1_TC010"/>
+          <include name="userstory1_TC009"/>
+          <include name="afterTest"/>
+          <include name="userstory1_TC003"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.evalue.insightloupe.testsuite.UserStory01Test -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,14 @@
+com\evalue\insightloupetest\pages\ExpertViewPage.class
+com\evalue\insightloupe\testsuite\HomeTest.class
+com\evalue\insightloupetest\pages\RfmSelectionModelPage.class
+com\evalue\insightloupe\testsuite\LoginTest.class
+com\evalue\insightloupe\testutil\TestBase.class
+com\evalue\insightloupe\testsuite\UserStory02Test.class
+com\evalue\insightloupe\testsuite\UserStory03Test.class
+com\evalue\insightloupetest\base\BaseTest.class
+com\evalue\insightloupetest\pages\NewUserPage.class
+com\evalue\insightloupetest\testutils\SeleniumHelper.class
+com\evalue\insightloupetest\pages\HomePage.class
+com\evalue\insightloupe\testsuite\UserStory01Test.class
+com\evalue\insightloupetest\pages\LoginPage.class
+com\evalue\insightloupetest\testutils\AutomationCore.class

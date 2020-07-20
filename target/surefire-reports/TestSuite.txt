@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 1, Errors: 0, Skipped: 12, Time elapsed: 311.137 s <<< FAILURE! - in TestSuite
+setup(com.evalue.insightloupe.testsuite.UserStory01Test)  Time elapsed: 83.6 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: 
+connection refused
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-V7SUSBP', ip: '192.168.1.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+
